@@ -31,3 +31,29 @@ build/
 
 ### VS Code ###
 .vscode/
+
+
+# Logs
+studentgrades-frontend/logs
+studentgrades-frontend/*.log
+studentgrades-frontend/npm-debug.log*
+studentgrades-frontend/yarn-debug.log*
+studentgrades-frontend/yarn-error.log*
+studentgrades-frontend/pnpm-debug.log*
+studentgrades-frontend/lerna-debug.log*
+
+studentgrades-frontend/node_modules
+studentgrades-frontend/dist
+studentgrades-frontend/dist-ssr
+studentgrades-frontend/*.local
+
+# Editor directories and files
+studentgrades-frontend/.vscode/*
+studentgrades-frontend/!.vscode/extensions.json
+studentgrades-frontend/.idea
+studentgrades-frontend/.DS_Store
+studentgrades-frontend/*.suo
+studentgrades-frontend/*.ntvs*
+studentgrades-frontend/*.njsproj
+studentgrades-frontend/*.sln
+studentgrades-frontend/*.sw?
